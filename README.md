@@ -162,10 +162,10 @@ jbOk.addActionListener(new ActionListener() {
 
 运行结果图
 ============================
-![1](https://github.com/djonehss/-5/blob/master/ck.png)
+![1](https://github.com/djonehss/-5/blob/master/xk.png)
 ![2](https://github.com/djonehss/-5/blob/master/tk.png)
-![3](https://github.com/djonehss/-5/blob/master/wxxr.png)
-![4](https://github.com/djonehss/-5/blob/master/xk.png)
+![3](https://github.com/djonehss/-5/blob/master/xkxx.png)
+![4](https://github.com/djonehss/-5/blob/master/wjxx.png)
 
 实验感想
 ==============================
